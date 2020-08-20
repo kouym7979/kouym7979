@@ -3,8 +3,11 @@
 I'm a student majoring in software!
 
 Algorithm(c,c++)
+
 Androidstudio
+
 AWS service
+
 Database sql
 
 Although I am still lacking in skills, I want to become a developer who progresses more and more.
