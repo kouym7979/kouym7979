@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![kouym7979's github stats](https://github-readme-stats.vercel.app/api?username=kouym7979&show_icons=true)
+
+
 <!--
 **kouym7979/kouym7979** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
