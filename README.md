@@ -4,7 +4,7 @@ I'm a student majoring in software!
 
 Algorithm(c,c++)
 
-Androidstudio
+Androidstudio(client)
 
 AWS service
 
