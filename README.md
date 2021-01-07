@@ -10,7 +10,6 @@ AWS service
 
 Database sql
 
-Although I am still lacking in skills, I want to become a developer who progresses more and more.
 
 ![kouym7979's github stats](https://github-readme-stats.vercel.app/api?username=kouym7979&show_icons=true&theme=radical)
 
