@@ -4,9 +4,7 @@ I'm a student majoring in software!
 
 Algorithm(c,c++)
 
-Androidstudio(client)
-
-AWS service
+Androidstudio(client with java, kotlin)
 
 Database sql
 
