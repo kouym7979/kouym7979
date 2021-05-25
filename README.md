@@ -8,7 +8,7 @@ Androidstudio(client with java, kotlin)
 
 Database sql
 
-[Liam's Dev일지](https://liam-aos.tistory.com/manage/setting/contents)👋
+[Liam's Dev일지](https://liam-aos.tistory.com/)👋
 
 
 ![kouym7979's github stats](https://github-readme-stats.vercel.app/api?username=kouym7979&show_icons=true&theme=radical)
