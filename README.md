@@ -1,8 +1,8 @@
 ### Hi 👋
 
-I'm a student majoring in software!
+I'm a application programmer(Android).
 
-Algorithm(c,c++)
+Algorithm(c,c++,python)
 
 Androidstudio(client with java, kotlin)
 
